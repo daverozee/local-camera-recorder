@@ -1,0 +1,1 @@
+{"name":"local-camera-recorder","version":"1.0.0","private":true,"description":"Local Python + Node.js RTSP recorder","scripts":{"start":"node server.js"},"engines":{"node":">=20"}}
